@@ -1,11 +1,11 @@
 {
-  "name": "node_assignment",
+  "name": "second_assignment",
   "version": "1.0.0",
-  "description": "how to create simple server that return my name",
+  "description": "simple server that handle GET,PUT,DELETE, POST",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Egwaoje Daniel",
+  "author": "EGWAOJE DANIEL KIKACHUKWU",
   "license": "ISC"
 }
